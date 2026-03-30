@@ -1,11 +1,11 @@
-# 🗽 NYC Payroll Intelligence Dashboard
+#  NYC Payroll Intelligence Dashboard
 
 > **Pay equity analysis, OT anomaly detection, and budget forecasting for NYC municipal agencies**  
 > Built with DuckDB · scikit-learn · PyTorch · Streamlit | Dataset: 6.78M records (NYC OpenData)
 
 ---
 
-## 🎯 Project Overview
+##  Project Overview
 
 This end-to-end data science project analyzes NYC's Citywide Payroll Data to surface:
 - **Pay equity disparities** across agencies, boroughs, and job titles
@@ -17,7 +17,7 @@ A dedicated focus is placed on **NYC Department of Small Business Services (SBS)
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 nyc_payroll_intelligence/
@@ -38,7 +38,7 @@ nyc_payroll_intelligence/
 
 ---
 
-## 🚀 Quickstart
+##  Quickstart
 
 ```bash
 # 1. Clone and install
@@ -60,7 +60,7 @@ streamlit run src/app.py
 
 ---
 
-## 🧱 Tech Stack
+##  Tech Stack
 
 | Layer | Tools |
 |---|---|
@@ -71,7 +71,7 @@ streamlit run src/app.py
 | Deep Learning | PyTorch (LSTM) |
 | Visualization | Plotly, Seaborn |
 | Dashboard | Streamlit |
-| Data Source | [NYC OpenData Citywide Payroll API](https://data.cityofnewyork.us/resource/k397-673e.json) |
+| Data Source | [NYC OpenData Citywide Payroll][(https://data.cityofnewyork.us/City-Government/Citywide-Payroll-Data-Fiscal-Year-/k397-673e/about_data)]|
 
 ---
 
@@ -107,4 +107,4 @@ streamlit run src/app.py
 
 ## 👤 Author
 
-**Nisarga** | [LinkedIn](https://linkedin.com/in/YOUR_HANDLE) | [Portfolio](https://YOUR_PORTFOLIO.com)
+**Nisarga** | [LinkedIn](https://www.linkedin.com/in/nisarga-kadam/)| [Portfolio](https://nisargakadam.github.io)
