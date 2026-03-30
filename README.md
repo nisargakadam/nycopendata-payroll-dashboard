@@ -75,13 +75,13 @@ streamlit run src/app.py
 
 ---
 
-## 📊 Key Findings (SBS Spotlight)
+##  Key Findings (SBS Spotlight)
 
 *Populated after running full pipeline — see dashboard for live insights.*
 
 ---
 
-## 🔍 Methodology
+##  Methodology
 
 ### Pay Equity Analysis
 - One-way ANOVA across agency groups to test for significant salary variance
