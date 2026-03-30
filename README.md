@@ -71,7 +71,7 @@ streamlit run src/app.py
 | Deep Learning | PyTorch (LSTM) |
 | Visualization | Plotly, Seaborn |
 | Dashboard | Streamlit |
-| Data Source | [NYC OpenData Citywide Payroll][(https://data.cityofnewyork.us/City-Government/Citywide-Payroll-Data-Fiscal-Year-/k397-673e/about_data)]|
+| Data Source | [NYC OpenData Citywide Payroll](https://data.cityofnewyork.us/City-Government/Citywide-Payroll-Data-Fiscal-Year-/k397-673e/about_data)|
 
 ---
 
@@ -105,6 +105,6 @@ streamlit run src/app.py
 
 ---
 
-## 👤 Author
+##  Author
 
 **Nisarga** | [LinkedIn](https://www.linkedin.com/in/nisarga-kadam/)| [Portfolio](https://nisargakadam.github.io)
