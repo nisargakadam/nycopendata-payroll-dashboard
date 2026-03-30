@@ -20,49 +20,49 @@ This project surfaces actionable insights from NYC's Citywide Payroll Data (NYC 
 ## Dashboard Preview
 
 ### Citywide KPI Overview
-![Payroll KPI Dashboard](visualizations/payroll_kpi_dashboard.png)
+![Payroll KPI Dashboard](visualizations/payroll%20kpi%20dashboard.png)
 *533,418 employees · $34.56B total payroll · $2.93B overtime paid across all NYC agencies in FY 2025*
 
 ---
 
 ### Agency Deep Dive — Department of Finance
-![Headcount, Average Salary, OT Ratio, and Payroll Spend Over Time](visualizations/headcount_averagesalary_otratio__payroll_over_time.png)
+![Headcount, Average Salary, OT Ratio, and Payroll Spend Over Time](visualizations/headcount%2Caveragessalary%2Cotratio%2C%20payroll%20over%20time.png)
 *Year-over-year trends in headcount, average salary, overtime ratio, and total spend for the Dept of Finance (2014–2025)*
 
-![Job Title Distribution (Latest FY)](visualizations/job_title_distribution_latest_FY.png)
+![Job Title Distribution (Latest FY)](visualizations/job%20title%20distribution%20latest%20FY.png)
 *Top 20 job titles by headcount, color-coded by average salary. City Tax Auditor is the most common role at ~320 employees.*
 
 ---
 
 ### Pay Equity Analysis
-![Salary by Borough and Top 25 Agencies](visualizations/salary_by_borough__top_25_agencies.png)
+![Salary by Borough and Top 25 Agencies](visualizations/salary%20by%20borough%2C%20top%2025%20agencies.png)
 *One-way ANOVA (F=30,809, p≈0) confirms salaries differ significantly across agencies. Box plots reveal wide intra-agency variance.*
 
-![Salary Distribution by Pay Basis](visualizations/salary_distribution_by_pay_basis.png)
+![Salary Distribution by Pay Basis](visualizations/salary%20distribution%20by%20pay%20basis.png)
 *Bimodal distribution in annual salaries with concentrations around $50K and $110K, consistent with civil service step structures.*
 
 ---
 
 ### Overtime Anomaly Detection
-![Overtime Anomaly Detection — FY 2025](visualizations/anomaly_detection_overtime.png)
+![Overtime Anomaly Detection — FY 2025](visualizations/anomaly%20detection_overtime.png)
 *Isolation Forest flags 12,373 employees (9.1% of OT workers) as anomalous. Dept of Citywide Admin Svcs has the highest anomaly rate at ~30%.*
 
 ---
 
 ### LSTM Budget Forecasting
-![LSTM Budget Forecasting](visualizations/LSTM_Budget_Forecasting.png)
+![LSTM Budget Forecasting](visualizations/LSTM%20Budget%20Forecasting.png)
 *Two-layer PyTorch LSTM trained on per-agency payroll sequences (2014–2025). Dept of Finance forecast: $169.54M (-2.1% YoY).*
 
-![Department of Finance Payroll Spend Forecast](visualizations/dept_of_finance_payroll_spend_forecast_.png)
+![Department of Finance Payroll Spend Forecast](visualizations/dept%20of%20finance%20payroll%20spend%20forecast%20.png)
 *Historical trend and LSTM forecast for the Dept of Finance, showing spend growth from $130M (2014) to $173M (2024) with a projected modest decline.*
 
 ---
 
 ### Salary Prediction and Equity Flagging
-![Salary Prediction and Equity Flagging](visualizations/salary_prediction_and_equity_flagging.png)
+![Salary Prediction and Equity Flagging](visualizations/salary%20prediction%20and%20equity%20flagging.png)
 *Random Forest model (R²=0.716, MAE=$10,577) predicts expected salary per employee. Of Dept of Finance annual employees: 4,479 flagged as potentially underpaid, 3,088 as overpaid.*
 
-![Top Agencies by Total Spend and Citywide Payroll Over Time](visualizations/total_spend_by_agency_and_citywide_payroll_overtime.png)
+![Top Agencies by Total Spend and Citywide Payroll Over Time](visualizations/total%20spend%20by%20agency%20and%20citywide%20payroll%20overtime.png)
 *Dept of Ed Pedagogical and NYPD dominate total spend. Citywide payroll grew from $22B (2014) to $35B (2024).*
 
 ---
