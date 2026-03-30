@@ -75,7 +75,7 @@ streamlit run src/app.py
 
 ---
 
-##  Key Findings (SBS Spotlight)
+##  Key Findings (Department of Finance Spotlight)
 
 *Populated after running full pipeline — see dashboard for live insights.*
 
